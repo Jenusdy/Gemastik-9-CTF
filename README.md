@@ -13,16 +13,16 @@ Docker images are coming soon.
     4. [Intranet Maintenance (125)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/web/125-Intranet-Maintenance)
     5. [E-Vote System (150)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/web/150-E-Vote-System)
   - Cryptography
-    1. [Classic Crypto(50)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/50-Classic-Crypto)
+    1. [Classic Crypto (50)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/50-Classic-Crypto)
     2. [Encrypted Picture (75)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/75-Encrypted-Picture)
     3. [RSA Factorization (100)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/100-RSA-Factorization)
     4. [Block Cipher (125)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/125-Block-Cipher)
     5. [Ransomware Strikes Back (150)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/crypto/150-Ransomware-Strikes-Back)
   - Network Packet
     1. [Can You See Me (50)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/50-Can-You-See-Me)
-    2. [Incident Analysis(100)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/100-Incident-Analysis)
-    3. [Malware Scanning(125)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/125-Malware-Scanning)
-    4. [Insider Threat(150)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/150-Insider-Threat)
+    2. [Incident Analysis (100)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/100-Incident-Analysis)
+    3. [Malware Scanning (125)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/125-Malware-Scanning)
+    4. [Insider Threat (150)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-packet/150-Insider-Threat)
   - Network Service
     1. [Java Authentication (50)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-service/50-Java-Authentication)
     2. [Python Server (100)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-service/100-Python-Server)
@@ -30,7 +30,16 @@ Docker images are coming soon.
     4. [Power Plant (125)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-service/125-Power-Plant)
     5. [Power Plant 2.0 (150)](https://github.com/farisv/Gemastik-9-CTF/tree/master/qualification/network-service/150-Power-Plant-2.0)
 - Final (Attack & Defense)
-  Coming soon
+  - Web Security
+    1. [Zero Days Store](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/web/Zero-Days-Store)
+    2. [AlienBox](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/web/AlienBox)
+    3. [EbilCorp](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/web/EbilCorp)
+  - Network Service
+    1. [Government Backdoor](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/network-service/Government-Backdoor)
+    2. [Code Sandbox](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/network-service/Government-Backdoor)
+    3. [The Matrix Glitch](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/network-service/The-Matrix-Glitch)
+    4. [Surveillance API](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/network-service/Surveillance-API)
+    5. [String in The Wires](https://github.com/farisv/Gemastik-9-CTF/tree/master/final/network-service/String-in-The-Wires)
 
 ## Problem Setter, Tester, & CTF Organizer
 
